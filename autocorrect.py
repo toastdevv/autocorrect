@@ -1,4 +1,4 @@
-words_list = ["pants", "astronaut", "word", "world", "pen", "pencil", "crayon", "walk"]
+words_list = ["pants", "astronaut", "word", "world", "pen", "pencil", "crayon", "walk"] # Replace with correct words
 
 prompt = input("> ")
 
